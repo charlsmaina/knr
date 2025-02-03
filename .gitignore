@@ -1,0 +1,6 @@
+*.o      # Ignore object files
+*.out    # Ignore default executable output (Linux/macOS)
+*.exe    # Ignore Windows executables
+*.bin    # Ignore binary files
+*.elf    # Ignore ELF files
+*a.out
