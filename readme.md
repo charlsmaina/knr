@@ -1,0 +1,1 @@
+This repo contains code  and exercises contained in the K&R 2nd edition programming book
