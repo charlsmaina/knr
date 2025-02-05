@@ -3,7 +3,7 @@
 int main(void)
 {
    // implementation using a for loop
-
+git
    
    for(int c ;( c = getchar()) != EOF ; putchar(c));
   
